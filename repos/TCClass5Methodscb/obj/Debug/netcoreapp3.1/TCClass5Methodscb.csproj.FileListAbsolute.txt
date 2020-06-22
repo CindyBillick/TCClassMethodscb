@@ -1,0 +1,13 @@
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\obj\Debug\netcoreapp3.1\TCClass5Methodscb.csprojAssemblyReference.cache
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\obj\Debug\netcoreapp3.1\TCClass5Methodscb.AssemblyInfoInputs.cache
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\obj\Debug\netcoreapp3.1\TCClass5Methodscb.AssemblyInfo.cs
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\obj\Debug\netcoreapp3.1\TCClass5Methodscb.csproj.CoreCompileInputs.cache
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\bin\Debug\netcoreapp3.1\TCClass5Methodscb.exe
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\bin\Debug\netcoreapp3.1\TCClass5Methodscb.deps.json
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\bin\Debug\netcoreapp3.1\TCClass5Methodscb.runtimeconfig.json
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\bin\Debug\netcoreapp3.1\TCClass5Methodscb.runtimeconfig.dev.json
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\bin\Debug\netcoreapp3.1\TCClass5Methodscb.dll
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\bin\Debug\netcoreapp3.1\TCClass5Methodscb.pdb
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\obj\Debug\netcoreapp3.1\TCClass5Methodscb.dll
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\obj\Debug\netcoreapp3.1\TCClass5Methodscb.pdb
+C:\Users\cbill\OneDrive\Desktop\repos\TCClass5Methodscb\obj\Debug\netcoreapp3.1\TCClass5Methodscb.genruntimeconfig.cache
