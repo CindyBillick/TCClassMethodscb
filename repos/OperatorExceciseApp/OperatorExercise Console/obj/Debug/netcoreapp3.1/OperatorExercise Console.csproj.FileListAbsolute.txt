@@ -1,0 +1,13 @@
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\bin\Debug\netcoreapp3.1\OperatorExercise Console.exe
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\bin\Debug\netcoreapp3.1\OperatorExercise Console.deps.json
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\bin\Debug\netcoreapp3.1\OperatorExercise Console.runtimeconfig.json
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\bin\Debug\netcoreapp3.1\OperatorExercise Console.runtimeconfig.dev.json
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\bin\Debug\netcoreapp3.1\OperatorExercise Console.dll
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\bin\Debug\netcoreapp3.1\OperatorExercise Console.pdb
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\obj\Debug\netcoreapp3.1\OperatorExercise Console.csprojAssemblyReference.cache
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\obj\Debug\netcoreapp3.1\OperatorExercise Console.AssemblyInfoInputs.cache
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\obj\Debug\netcoreapp3.1\OperatorExercise Console.AssemblyInfo.cs
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\obj\Debug\netcoreapp3.1\OperatorExercise Console.csproj.CoreCompileInputs.cache
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\obj\Debug\netcoreapp3.1\OperatorExercise Console.dll
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\obj\Debug\netcoreapp3.1\OperatorExercise Console.pdb
+C:\Users\cbill\OneDrive\Desktop\repos\OperatorExceciseApp\OperatorExercise Console\obj\Debug\netcoreapp3.1\OperatorExercise Console.genruntimeconfig.cache
